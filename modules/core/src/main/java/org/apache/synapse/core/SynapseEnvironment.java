@@ -168,3 +168,4 @@ public interface SynapseEnvironment {
     public boolean isSynapseDebugMode();
 
 }
+
